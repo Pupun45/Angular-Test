@@ -1,0 +1,11 @@
+npm install -g @angular/cli
+
+ng version
+
+
+ng new my-angular-app
+
+cd my-angular-app
+
+ng serve
+
